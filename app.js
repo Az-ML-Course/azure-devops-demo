@@ -1,1 +1,1 @@
-console.log("Hello from Azure DevOps Pipeline!");
+console.log("This is DEV environment version");
