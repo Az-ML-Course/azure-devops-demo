@@ -1,1 +1,1 @@
-console.log("This is DEVELOPME environment version");
+console.log("This is DEVELOPMEnt environment version");
