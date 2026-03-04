@@ -1,1 +1,1 @@
-console.log("Hello from main 22 branch Azure DevOps Pipeline!");
+console.log("Hello from main branch Azure DevOps Pipeline!");
