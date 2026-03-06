@@ -1,1 +1,1 @@
-console.log("This is DEVELOPMEnt wwww environment version");
+console.log("This is DEVELOPMEnt mm environment version");
